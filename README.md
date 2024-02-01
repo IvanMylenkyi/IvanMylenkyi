@@ -1,4 +1,4 @@
-<img src="https://github.com/Ivan-Penguin/ivan-penguin/blob/main/assets/hello-world-seytonic%20копия.gif" width="100%">
+<img src="![Header](https://github.com/Ivan-Penguin/ivan-penguin/blob/main/assets/hello-world-seytonic.gif)" width="100%">
 
 <hr>
 
