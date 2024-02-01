@@ -1,4 +1,4 @@
-<img src="https://github.com/Ivan-Penguin/ivan-penguin/blob/main/assets/hello-world.gif" width="100%" height="200">
+<img src="https://github.com/Ivan-Penguin/ivan-penguin/blob/main/assets/hello-world.gif" width="100%">
 
 <hr>
 
