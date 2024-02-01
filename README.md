@@ -3,11 +3,14 @@
 <hr>
 
 
-# <p align="center">Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I`m Ivan Mylenkyi</p> 
+# <p align="center">Hello! 👋 I`m Ivan Mylenkyi</p> 
 
 ### about myself:
 
-👨‍💻 From early childhood I dreamed of being a developer of various applications. I don't plan to stop and aim to continuously grow and enhance my skills as a specialist.
+👨‍💻 Since early childhood, I dreamed of being a developer of various applications. Now I strive to create innovative and useful applications that improve people's lives and solve their problems. I am passionate about new technologies and constantly learn new tools and programming languages, to be at the forefront in my field and do not plan to stop there, and will also continue to improve my skills. Besides all of the above, I am open to new projects and collaboration opportunities. Feel free to contact me if you have any ideas or suggestions.
+
+
+
 
 <hr>
 
@@ -18,9 +21,9 @@
 </p>
 <hr>
 
-### Socials
+### My contacts
 
-<p align="left"> <a href="https://discord.com/users/zam_pinov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ivan-Penguin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mylenkyi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+![Flutter](https://img.shields.io/badge/-Flutter-<COLOR>)
 <hr>
 
 ### Badges
