@@ -3,9 +3,11 @@
 <hr>
 
 
-## <p align="center">Hello! I`m Ivan Mylenkyi</p>
+# <p align="center">Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I`m Ivan Mylenkyi</p> 
 
-Speaking about myself, I've been dreaming of developing various programs since I was 6, and here I am. I don't plan to stop and aim to continuously grow and enhance my skills as a specialist.
+### about myself:
+
+👨‍💻 From early childhood I dreamed of being a developer of various applications. I don't plan to stop and aim to continuously grow and enhance my skills as a specialist.
 
 <hr>
 
