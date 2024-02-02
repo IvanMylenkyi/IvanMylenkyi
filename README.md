@@ -74,7 +74,7 @@ src="https://img.shields.io/github/followers/IvanMylenkyi?logo=github&style=for-
   </tbody>
 </table>
 
-<hr>
+
 
 
 
