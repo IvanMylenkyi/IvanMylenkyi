@@ -5,7 +5,7 @@
 
 # <p align="center">Hello! 👋 I`m Ivan Mylenkyi</p> 
 
-### about myself:
+### About myself:
 
 👨‍💻 Since early childhood, I dreamed of being a developer of various applications. Now I strive to create innovative and useful applications that improve people's lives and solve their problems. I am passionate about new technologies and constantly learn new tools, and also improve my skills. I wanna be at the forefront in my field and do not plan to stop there. Besides all of the above, I am open to new projects and collaboration opportunities. Feel free contact with me!
 
